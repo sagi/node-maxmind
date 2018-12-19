@@ -1,7 +1,7 @@
 {
   "name": "maxmind",
   "version": "2.11.1",
-  "homepage": "https://github.com/runk/node-maxmind",
+  "homepage": "https://github.com/sagi/node-maxmind",
   "description": "IP lookup using Maxmind databases",
   "keywords": [
     "maxmind",
@@ -24,6 +24,7 @@
   ],
   "dependencies": {
     "big-integer": "^1.6.31",
+    "is-ip": "^2.0.0",
     "tiny-lru": "^5.0.3"
   },
   "devDependencies": {
@@ -40,7 +41,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/runk/node-maxmind.git"
+    "url": "https://github.com/sagi/node-maxmind.git"
   },
   "bugs": {
     "mail": "deadrunk@gmail.com",

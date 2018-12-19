@@ -1,5 +1,5 @@
 {
-  "name": "maxmind",
+  "name": "@sagi.io/maxmind",
   "version": "2.11.1",
   "homepage": "https://github.com/sagi/node-maxmind",
   "description": "IP lookup using Maxmind databases",

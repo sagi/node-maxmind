@@ -1,6 +1,6 @@
 {
   "name": "@sagi.io/maxmind",
-  "version": "2.11.2",
+  "version": "2.11.3",
   "homepage": "https://github.com/sagi/node-maxmind",
   "description": "IP lookup using Maxmind databases",
   "keywords": [

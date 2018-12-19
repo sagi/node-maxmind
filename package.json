@@ -1,6 +1,6 @@
 {
   "name": "@sagi.io/maxmind",
-  "version": "2.11.1",
+  "version": "2.11.2",
   "homepage": "https://github.com/sagi/node-maxmind",
   "description": "IP lookup using Maxmind databases",
   "keywords": [
@@ -23,7 +23,6 @@
     "Andrew N Golovkov @AndorCS"
   ],
   "dependencies": {
-    "big-integer": "^1.6.31",
     "is-ip": "^2.0.0",
     "tiny-lru": "^5.0.3"
   },

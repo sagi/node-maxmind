@@ -1,3 +1,5 @@
+This is a fork. Tailored for my own specific needs.
+
 node-maxmind [![Build Status](https://api.travis-ci.org/runk/node-maxmind.svg?branch=master)](https://travis-ci.org/runk/node-maxmind)
 ========
 
